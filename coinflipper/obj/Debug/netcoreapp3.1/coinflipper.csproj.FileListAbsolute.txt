@@ -1,0 +1,13 @@
+C:\Users\fatma\source\repos\coinflipper\coinflipper\bin\Debug\netcoreapp3.1\coinflipper.exe
+C:\Users\fatma\source\repos\coinflipper\coinflipper\bin\Debug\netcoreapp3.1\coinflipper.deps.json
+C:\Users\fatma\source\repos\coinflipper\coinflipper\bin\Debug\netcoreapp3.1\coinflipper.runtimeconfig.json
+C:\Users\fatma\source\repos\coinflipper\coinflipper\bin\Debug\netcoreapp3.1\coinflipper.runtimeconfig.dev.json
+C:\Users\fatma\source\repos\coinflipper\coinflipper\bin\Debug\netcoreapp3.1\coinflipper.dll
+C:\Users\fatma\source\repos\coinflipper\coinflipper\bin\Debug\netcoreapp3.1\coinflipper.pdb
+C:\Users\fatma\source\repos\coinflipper\coinflipper\obj\Debug\netcoreapp3.1\coinflipper.csprojAssemblyReference.cache
+C:\Users\fatma\source\repos\coinflipper\coinflipper\obj\Debug\netcoreapp3.1\coinflipper.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\coinflipper\coinflipper\obj\Debug\netcoreapp3.1\coinflipper.AssemblyInfo.cs
+C:\Users\fatma\source\repos\coinflipper\coinflipper\obj\Debug\netcoreapp3.1\coinflipper.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\coinflipper\coinflipper\obj\Debug\netcoreapp3.1\coinflipper.dll
+C:\Users\fatma\source\repos\coinflipper\coinflipper\obj\Debug\netcoreapp3.1\coinflipper.pdb
+C:\Users\fatma\source\repos\coinflipper\coinflipper\obj\Debug\netcoreapp3.1\coinflipper.genruntimeconfig.cache
